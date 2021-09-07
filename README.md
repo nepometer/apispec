@@ -1,0 +1,2 @@
+# apispec
+Nepometer API Spec
